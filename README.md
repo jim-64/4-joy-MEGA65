@@ -1,5 +1,5 @@
 # 4-joy-MEGA65
-4 Joystick adapter for the MEGA65
+## 4 Joystick adapter for the MEGA65
 
 This project is to make a 4 player joystick interface for the MEGA65. It is based on the work done by Paul Gardners (https://c65gs.blogspot.com/2018/12/super-simple-protovision-compatible.html) and is basically a PCB layout project.
 
